@@ -1,0 +1,96 @@
+.menu .navbar ul li a{
+    position: relative;
+    right: -20rem;
+    /* margin-top: 1rem; */
+}
+.menuDiv img{
+    height: 3rem;
+    margin-top: 1rem;
+}
+.banner{
+    background-color: #f9f9ff;
+    height: 600px;
+}
+.banner img{
+    height: 550px;
+    position: relative;
+    bottom: -3rem;
+}
+.Text{
+    margin-top: 30%;
+}
+.about{
+    height: 500px;
+}
+.about .card{
+    height: 450px;
+    width: 400x;
+    margin-top: 2rem;
+}
+.about .card img{
+    height: 450px;
+}
+.textDiv {
+    margin-top: 5rem;
+    margin-left: 3rem;
+}
+.counter{
+    height: 200px;
+    background-color: #8490ff;
+}
+.counter b{
+    font-size: 50px;
+}
+.counter-number {
+    margin-top: 4rem;
+    margin-left: 5rem;
+}
+.content{
+    background: #f9f9ff;
+    height: 550px;
+}
+.content .card {
+    height: 24rem;
+    width: 18rem;
+}
+.common1{
+    height: 4rem;
+width: 4rem;
+border: 1px solid transparent;
+border-radius: 50px;
+background-color: #f9f9ff;
+position: relative;
+left: 7rem;
+}
+.btndiv {
+    padding: 6px;
+    width: 7rem;
+    background-color: white;
+    color: rgb(127, 127, 224);
+    outline: none;
+    border: none;
+    border: 2px solid rgb(129, 129, 231);
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+
+.about-item .card img{
+    height: 8rem;
+margin: 1rem;
+margin-top: -3rem;
+
+}
+.contact-section{
+    background-color: #f9f9ff;
+}
+.btn{
+    background-color: #17a2b8;
+    color: #fff;
+}
+.ok{
+    margin-right: 6rem;
+}
+.texsection {
+    margin-top: 8rem;
+    margin-left: 3rem;
+}
